@@ -66,7 +66,7 @@ Two regression models were applied:
 - Random Forest may require additional features or hyperparameter tuning to improve performance.
 - For more advanced predictions, features like moving averages, RSI, MACD, or LSTM/GRU models can be incorporated.
 
-**Key Takeaways: **
+**Key Takeaways:**
 - Both Linear Regression and Random Forest were applied.
 - Linear Regression was highly accurate for next-day predictions (R² = 0.97).
 - Visualizations provide a clear comparison of model predictions versus actual prices.
